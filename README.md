@@ -6,11 +6,12 @@
 ## Commits 
 Pattern: `<type>(<scope?>): <description>` <br>
 Types:
-- f - feature
-- b - bug
-- t - test
-- r - refactoring
-- d - docs
+- feat - feature
+- fix - fix
+- test - test
+- ref - refactoring
+- ui - ui
+- docs - docs
 - v - version
 - o - other
 
