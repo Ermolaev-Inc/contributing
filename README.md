@@ -16,8 +16,20 @@ Types:
 - o - other
 
 Examples:
-- `f(Button): create`
+- `feat(Button): create`
 - `v: bump to 2.0.0`
 
 ## Issues
 Each of our projects has a templates for issues
+### Labels
+- bug
+- documentation
+- duplicate
+- feature
+- major
+- minor
+- refactoring
+- released
+- next release
+- wontfix
+- intern
