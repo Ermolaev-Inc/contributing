@@ -10,6 +10,7 @@ Types:
 
 - feat - feature
 - fix - fix
+- bug - bug
 - test - test
 - refactor - refactoring
 - ui - ui
