@@ -6,18 +6,20 @@
 ## Commits 
 Pattern: `<type>(<scope?>): <description>` <br>
 Types:
+
 - feat - feature
 - fix - fix
 - test - test
-- ref - refactoring
+- refactor - refactoring
 - ui - ui
 - docs - docs
-- v - version
+- deps - dependencies
+- version - version
 - o - other
 
 Examples:
 - `feat(Button): create`
-- `v: bump to 2.0.0`
+- `version: bump to 2.0.0`
 
 ## Issues
 Each of our projects has a templates for issues
@@ -28,6 +30,7 @@ Each of our projects has a templates for issues
 - feature
 - major
 - minor
+- patch
 - refactoring
 - released
 - next release
