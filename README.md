@@ -1,4 +1,5 @@
-# Contributing
+# Contributing rules V1
+
 ## Our Projects
 - [react comet](https://github.com/Ermolaev-Inc/react-comet)
 - [comet cli](https://github.com/Ermolaev-Inc/comet-cli)
